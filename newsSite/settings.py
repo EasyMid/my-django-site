@@ -25,7 +25,9 @@ SECRET_KEY = '7m-7pdyo^g2a+31co@vfn2)&c_d_rk@w2k!2p8$6f3&qgzp^cu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'easymid.pythonanywhere.com',
+]
 
 
 # Application definition
