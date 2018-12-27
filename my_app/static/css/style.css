@@ -1,0 +1,27 @@
+.content{
+    width:400px;
+    background-color: #f2f2f2;
+}
+.row{
+    padding:3%;
+}
+.post{
+    border-style:solid;
+    border-color:#dfdfe6;
+    margin-bottom: 20px;
+}
+.article-date{
+    padding-left: 3%;
+    color: #828282; 
+}
+.article-title{
+    padding-left: 10%;
+}
+.article-text{
+    padding-left: 5%;
+
+}
+.article-author{
+    padding-left: 3%;
+    color: #828282; 
+}
